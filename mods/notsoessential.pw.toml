@@ -1,0 +1,18 @@
+name = "Not So Essential"
+filename = "NotSoEssential-Fabric-1.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CDo9Niyy/versions/ejhsdynb/NotSoEssential-Fabric-1.0.5.jar"
+hash-format = "sha512"
+hash = "2f1f3772b1d08b263560041a39518224aaba51422a494108c63e8e0d526e0e42ea07afaf4b4fa3a18f4292fe66ce8c226b9a3a200d89033e25e7a7d730ab2583"
+
+[update]
+[update.modrinth]
+mod-id = "CDo9Niyy"
+version = "ejhsdynb"
+
+[option]
+optional = true
+default = false
+description = "Essential mod but debloated, replaces essential mod too."

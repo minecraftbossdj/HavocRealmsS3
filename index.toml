@@ -267,6 +267,11 @@ hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
 metafile = true
 
 [[files]]
+file = "mods/ftb-chunks-fabric.pw.toml"
+hash = "3e1c0acfc7477a24b94bf6ae954fa2443602693d7a879ea07a089e6c1c2a78be"
+metafile = true
+
+[[files]]
 file = "mods/ftb-essentials.pw.toml"
 hash = "8054860e94196bcc079fed630a3a3ecbd6e98aace7a8eac3026edcce5d740185"
 metafile = true
@@ -274,6 +279,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
 hash = "36cef0788ba915e48a0fd991847c35056bdbacda46273840c6f300b8431dfdc5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "8c16d26d5b9bb03da0982af0d7ff7e2aaba6b91e99ab39e5f5b49fc52b1159cf"
 metafile = true
 
 [[files]]
@@ -442,8 +452,8 @@ hash = "884048c6b333f44578bea0e53f4865c969e703032766aef48683374b1f784d41"
 metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "9cd1bfa718de9a9707fbd76216e5a0c06b00d5fb393ecc55e43b9c6c578a4817"
+file = "mods/notsoessential.pw.toml"
+hash = "e86dd2a8ecc81249370fe61fa9d72483b6e08b418636745c2a28ba41a32abc78"
 metafile = true
 
 [[files]]
