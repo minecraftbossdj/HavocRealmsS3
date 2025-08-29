@@ -1,0 +1,13 @@
+name = "ModList Command"
+filename = "modscmd-fabric-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Bx6i1J4x/versions/r9trhpT3/modscmd-fabric-1.0.2.jar"
+hash-format = "sha512"
+hash = "cf43e784d3b47f0db000cdbe3c2ebbc564d66716388da336c6309cebbe495c27aacd18ffb6c452d0d80540c422e29385730eaee5360a7b6769fd7e99ad409165"
+
+[update]
+[update.modrinth]
+mod-id = "Bx6i1J4x"
+version = "r9trhpT3"

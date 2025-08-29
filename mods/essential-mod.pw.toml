@@ -1,6 +1,6 @@
 name = "Essential Mod"
 filename = "Essential_1-3-9_fabric_1-20-1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 6828645
 project-id = 546670
+
+[option]
+optional = true
+default = true
+description = "le essential mod"
