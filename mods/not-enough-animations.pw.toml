@@ -1,0 +1,18 @@
+name = "Not Enough Animations"
+filename = "notenoughanimations-fabric-1.10.2-mc1.20.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "dfd20eea9e415e1083932f15b611d7e20b85e92b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6931593
+project-id = 433760
+
+[option]
+optional = true
+default = true
+description = "Adds some updated animations to minecraft."

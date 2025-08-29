@@ -1,0 +1,13 @@
+name = "Havoc Realms S3"
+author = "minecraftbossdj, NullHarp"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bf4340ffc22553b8cd12c21228f9a8298f181937b3e8b8b99cdccbfbff5fc1ad"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.20.1"

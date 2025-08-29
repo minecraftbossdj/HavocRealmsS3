@@ -1,0 +1,13 @@
+name = "Sophisticated Storage (Unofficial Fabric port)"
+filename = "sophisticatedstorage-1.20.1-1.3.5.6.130.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iHtpVwJL/versions/5qhoat7N/sophisticatedstorage-1.20.1-1.3.5.6.130.jar"
+hash-format = "sha512"
+hash = "3a8239ef687e1abbeb19624867e39c2d09234c0c842e3326afce670eaec48023f9a75b63ea74f3b355532f50ce9effb5893e7a9a7175edcb61024dd7c5bcdc68"
+
+[update]
+[update.modrinth]
+mod-id = "iHtpVwJL"
+version = "5qhoat7N"

@@ -1,0 +1,13 @@
+name = "Kilt"
+filename = "Kilt-20.1.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a541558988f422961f3edbe07fdee1692685755"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6927673
+project-id = 1295823

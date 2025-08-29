@@ -1,0 +1,13 @@
+name = "Turtlematic"
+filename = "turtlematic-fabric-1.20.1-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52948551253b7a9e8ae41a9c4c7032aa363e640f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6322054
+project-id = 618288

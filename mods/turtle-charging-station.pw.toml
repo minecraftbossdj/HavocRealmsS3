@@ -1,0 +1,13 @@
+name = "Turtle Charging Station"
+filename = "turtlechargingstation-1.7.0-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/f7J3NZvt/versions/uLCFfDQI/turtlechargingstation-1.7.0-1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "f3f34f487ff6fe70c07823befdf61729a969c9f365b5d3f2613b7a7a04ff7d56e227a9061bc3027fc0a2f2b40a3e328168844733d4e35e2f3918e698f0527f81"
+
+[update]
+[update.modrinth]
+mod-id = "f7J3NZvt"
+version = "uLCFfDQI"
