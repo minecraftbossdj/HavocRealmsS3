@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "fce91ce1368fec4e91c14fc203288fa254e28167ad95ea54ebe3702b8b9b93a2"
+metafile = true
+
+[[files]]
 file = "mods/Draconic-Shenanigans-1.20.1-1.0.1.b2-universal.jar"
 hash = "9836e57552eda94179811af52e83e6e9d8284a59fc3db5e80d2f7ae5ffd158fa"
 
@@ -208,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "1935cc1881cb0d199b68902ebe20640a760dd85deaa7cec030a5ab9fa846ee04"
+hash = "80778f1211e029806da217f4ba9b232f58e800b00d4ffbabcdb6743c8330dde7"
 metafile = true
 
 [[files]]
@@ -413,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "687f0ccce9445879185aa16c994eee2646dcc6cf7c9afbb03ee5323dc49ff33f"
+hash = "884048c6b333f44578bea0e53f4865c969e703032766aef48683374b1f784d41"
 metafile = true
 
 [[files]]

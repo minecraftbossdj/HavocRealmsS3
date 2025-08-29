@@ -14,5 +14,5 @@ project-id = 844662
 
 [option]
 optional = true
-default = true
+default = false
 description = "Entity Model Features, alternative to optifine."
