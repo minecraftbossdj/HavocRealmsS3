@@ -178,6 +178,10 @@ hash = "03c0bcb25c38dd80dd719da64f8b2660b9c4acbb782b8e464d1872774e06faad"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration-forge-3.0.7.1-1.20.1.jar"
+hash = "8da9fbc532229b4d55b4857c7fc28ded385ca6e621e95ba393a584aadef7868d"
+
+[[files]]
 file = "mods/digital-items-3.pw.toml"
 hash = "340872403325a1d29ce72be5f3ca289e2c973777c226421849a7fc3cbe6b023d"
 metafile = true
