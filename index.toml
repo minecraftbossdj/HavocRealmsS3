@@ -178,11 +178,6 @@ hash = "03c0bcb25c38dd80dd719da64f8b2660b9c4acbb782b8e464d1872774e06faad"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "a3f54d4b294683dbfe027dc01f9172bd828769afb435bb965f167e205640e7c3"
-metafile = true
-
-[[files]]
 file = "mods/digital-items-3.pw.toml"
 hash = "340872403325a1d29ce72be5f3ca289e2c973777c226421849a7fc3cbe6b023d"
 metafile = true
